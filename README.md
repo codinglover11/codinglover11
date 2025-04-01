@@ -74,7 +74,7 @@
 I love **continuously learning** new technologies and **building awesome projects**! 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2SpZkQ0XT3vvF65u/giphy.gif" width="400px">
+  <img src="https://nearpod.com/blog/wp-content/uploads/2022/02/time-climb.gif" width="400px">
 </p>
 
 ---
