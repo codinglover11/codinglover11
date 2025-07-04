@@ -56,10 +56,10 @@
 
 ## 🚀 My Projects:
 | Project Name  | Description  | Link |
-|--------------|-------------|------|
-| **Ecomerce Website**  | A full-fledged eCommerce website using React,Bootstrap & Node.js  | UPCOMING UPDATES |
-| **PortFolio Website** | A website which conatins Skills,Achievements and Projects of mine devloped by using React js,Taiwland CSS UPCOMING UPDATES |
-| **Chat App**  | Real-time chat app with AI reply suggestions  | UPCOMING UPDATES |
+|--------------|--------------|------|
+| **Event Management Website** | A full-stack event planning platform built using React, Node.js, and MongoDB. *(In Progress)* | **In Progress** |
+| **SEPT – Smart Exam Preparation Tracker** | A Java-based CLI tool to track subjects, study hours, and reports. | [GitHub Repo](https://github.com/codinglover11/SEPT-Smart-Exam-Preparation-Tracker-) |
+| **Portfolio Website** | A personal portfolio website showcasing my skills, projects, and achievements using React.js and Tailwind CSS. | [Live Site](https://piyush98.netlify.app/) |
 
 ---
 
